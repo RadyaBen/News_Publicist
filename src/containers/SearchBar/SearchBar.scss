@@ -1,0 +1,13 @@
+.search {
+	margin-top: 40px;
+	margin-left: 70px;
+
+	.search__header {
+		margin-bottom: 10px;
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+
+	&__bar {
+		width: 500px;
+	}
+}

@@ -1,0 +1,33 @@
+.card {
+	max-width: 350px;
+	height: 500px;
+	padding: 15px;
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, .25);
+	display: flex;
+	flex-direction: column;
+	cursor: pointer;
+	transition: 0.3s transform;
+
+	&__img {
+		min-width: 400px;
+		min-height: 200px;
+		object-fit: cover;
+		transform: translate(-15px, -15px);
+	}
+
+	&__content {
+		display: flex;
+		flex: 1 0 auto;
+		flex-direction: column;
+	}
+
+	&__actions {
+		display: flex;
+		justify-content: flex-start;
+		display: flex;
+		align-items: center;
+		float: left;
+	}
+}
