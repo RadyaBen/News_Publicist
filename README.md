@@ -13,7 +13,7 @@
 * This is a single-page application for article management. There is a main page which contains news cards that dynamically fetch data from the news API. 
 * A user can explore the list of the articles and read a selected one.
 * A user also has the ability to filter articles by title or description.
-* The front-end part is developed with TypeScript, ReactJS, Redux, HTML, SASS, and Material-UI. The back-end part is developed with Axios.
+* The front-end part is developed with TypeScript, ReactJS, Redux, HTML, SCSS, and Material-UI. The back-end part is developed with Axios.
 
 ## Getting started
 
@@ -30,4 +30,4 @@
 * [Axios](https://axios-http.com/) - The promise based HTTP client for the browser and node.js used
 * [Material-UI](https://mui.com/) - The React library used
 * [HTML](https://developer.mozilla.org/ru/docs/Web/HTML) - The HyperText Markup Language used
-* [SASS](://sass-lang.com) - The professional grade CSS extension language used
+* [SCSS](https://sass-lang.com/) - The main syntax for the SASS used
